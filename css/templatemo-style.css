@@ -1,4 +1,12 @@
-/**
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=Big5">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="�۰ʴ���">
+  </head>
+  <body>
+    <pre>/**
 
 Mini Profile Template
 
@@ -159,10 +167,10 @@ a:hover {
 }
 
 .tm-portfolio-name {
-  width: 330px;
+  width: 30px;
   height: 220px;
   font-size: 2rem;
-  padding: 70px 95px;
+  padding: 70px 10px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -341,3 +349,6 @@ p {
     padding: 25px;
   }
 }
+</pre>
+  </body>
+</html>
